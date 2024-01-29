@@ -1,0 +1,27 @@
+----------------------------------[ Active Directory Enumeration ]----------------------------------
+[!] Unable to locate a domain controller, some commands will not be able to run.
+Running the program with the default settings:
+ The current enumeration commands are: 
+  * List the network shares on this computer.
+  * List the current sessions on this computer.
+ The current limit for the number of outputs is: 20
+----------------------------------------------------------------------------------------------------
+Listing network shares on this computer: 
+
+ Share Name: ADMIN$
+  * Share Type: 2147483648
+  * Share Remark: Remote Admin
+
+ Share Name: C$
+  * Share Type: 2147483648
+  * Share Remark: Default share
+
+ Share Name: IPC$
+  * Share Type: 2147483651
+  * Share Remark: Remote IPC
+
+----------------------------------------------------------------------------------------------------
+Listing the user sessions on this computer:
+
+----------------------------------------------------------------------------------------------------
+
